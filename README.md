@@ -1,2 +1,3 @@
-# uikit
-自用uikit中文文档镜像站，源站，https://github.com/getuikit/website
+# UIkit
+
+UIkit 中文文档翻译项目
